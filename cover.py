@@ -1,7 +1,3 @@
-#Marisol Amaya
-#cover.py
-#COP 2500 0004
-#9/11/2024
 
 import turtle
 #rectangle for whole field
